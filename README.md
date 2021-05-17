@@ -1,4 +1,4 @@
-![alt text](./images/top.svg)
+![alt text](./Cesar.svg)
 
 Hi!!, I'm Cesar Martin, I'm Mexican 🌮 and i'm an engineering student by the day and developer by the night. 
 
