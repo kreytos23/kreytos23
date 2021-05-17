@@ -8,7 +8,7 @@ I have experience in Backend with languajes like Java, Go, JavaScript and Python
 
 
 - ⚡ Fun fact: I began to code since 2017
-- 👯 I’m looking to collaborate on projects that are using technologies in the backend.
+- 🖥️ I’m looking to collaborate on projects that are using technologies in the backend.
 - 🌱 I’m currently learning JavaScript and Node.js in order to be a great Fullstack Developer.
 - :purple_heart: I Love videogames.
 - :musical_note: I love learn about any new technologie.
