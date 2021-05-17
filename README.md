@@ -37,7 +37,7 @@ I have experience in Backend with languajes like Java, Go, JavaScript and Python
 </p>
 
 <p align="center">
-	<img alt="Night Coding" src="./Night-Coding.gif"/>
+	<img alt="Night Coding" src="./assets/Night-Coding.gif"/>
 </p>
 
 
