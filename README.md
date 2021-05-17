@@ -42,4 +42,4 @@ I have experience in Backend with languajes like Java, Go, JavaScript and Python
 
 
 
-![alt text](./bottom.svg)
+![alt text](./assets/bottom.svg)
