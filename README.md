@@ -11,7 +11,7 @@ I have experience in Backend with languajes like Java, Go, JavaScript and Python
 - 🖥️ I’m looking to collaborate on projects that are using technologies in the backend.
 - 🌱 I’m currently learning JavaScript and Node.js in order to be a great Fullstack Developer.
 - :purple_heart: I Love videogames.
-- :musical_note: I love learn about any new technologie.
+- :star2: I love learn about any new technologie.
 
 
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
