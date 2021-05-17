@@ -1,4 +1,4 @@
-![alt text](./Mor.png)
+![alt text](./assets/cabecera.png)
 
 Hi!!, I'm Cesar Martin, I'm a Mexican 🌮 engineering student by the day and also developer by the night. 
 
