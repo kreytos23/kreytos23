@@ -33,7 +33,7 @@ I have experience in Backend with languajes like Java, Go, JavaScript and Python
 	<a href="https://github.com/kreytos23"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/cesar-martin-2001/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://www.facebook.com/cesar.sadrak10/"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
-	<a href="https://www.instagram.com/kreytos.dead10/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+	<a href="https://www.instagram.com/kreytos.dead10/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a> <br/>
 	<img alt="Night Coding" src="./Night-Coding.gif"/>
 </p>
 
