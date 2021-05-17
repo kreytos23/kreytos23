@@ -21,4 +21,4 @@ I have experience in Backend with languajes like Java, Go, JavaScript and Python
 	<a href="https://www.instagram.com/kreytos.dead10/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 </p>
 
-![alt text](./images/bottom.svg)
+![alt text](./bottom.svg)
