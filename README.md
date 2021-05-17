@@ -1,6 +1,6 @@
 ![alt text](./cabecera.png)
 
-Hi!!, I'm Cesar Martin, I'm Mexican 🌮 and i'm an engineering student by the day and developer by the night. 
+Hi!!, I'm Cesar Martin, I'm a Mexican 🌮 engineering student by the day and also developer by the night. 
 
 I love coding in any languaje :snake:. <br/>
 I study Telematics Engineering in the Instituto Politénico Nacional. ❤️<br/>
