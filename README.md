@@ -36,9 +36,11 @@ I have experience in Backend with languajes like Java, Go, JavaScript and Python
 </p>
 
 <p align="center">
-	<img alt="Night Coding" src="./assets/avatar2.gif" width=15px height =150px/>
+	<img alt="Night Coding" src="./assets/avatar2.gif" width=150px height =150px/>
+	<span></span>
 	<img alt="Night Coding" src="./assets/Night-Coding.gif"/>
-	<img alt="Night Coding" src="./assets/avatar2.gif" width=15px height =150px/>
+	<span></span>
+	<img alt="Night Coding" src="./assets/avatar2.gif" width=150px height =150px/>
 </p>
 
 
