@@ -39,7 +39,7 @@ I have experience in Backend with languajes like Java, Go, JavaScript and Python
 	<img alt="Night Coding" src="./assets/Night-Coding.gif"/>
 </p>
 <p align="center">
-	<img alt="Night Coding" src="./assets/avatar2.gif" width=120px height =120px/>
+	<img alt="Night Coding" src="./assets/avatar2.gif" width=120px height =120px style='border-radius: 20px'/>
 </p>
 
 
