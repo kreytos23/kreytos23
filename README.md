@@ -38,9 +38,5 @@ I have experience in Backend with languajes like Java, Go, JavaScript and Python
 <p align="center">
 	<img alt="Night Coding" src="./assets/Night-Coding.gif"/>
 </p>
-<p align="center">
-	<img alt="Night Coding" src="./assets/avatar2.gif" width=120px height =120px/>
-</p>
-
 
 ![alt text](./assets/bottom.svg)
