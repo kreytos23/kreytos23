@@ -10,7 +10,7 @@ I have experience in Backend with languajes like Java, Go, JavaScript and Python
 - ⚡ Fun fact: I began to code since 2017
 - 🖥️ I’m looking to collaborate on projects that are using technologies in the backend.
 - 🌱 I’m currently learning JavaScript and Node.js in order to be a great Fullstack Developer.
-- 🎮 I'm learnign DevOps to achieve a certification in Azure (Az900) 
+- 🎮 I'm learnign DevOps
 - :purple_heart: I Love videogames.
 - :star2: I love learn about any new technology.
 
