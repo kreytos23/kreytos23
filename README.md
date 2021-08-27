@@ -27,7 +27,8 @@ I have experience in Backend with languajes like Java, Go, JavaScript and Python
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-[![Cesar's github stats 🌟🌟](https://github-readme-stats.vercel.app/api?username=kreytos23)](https://github.com/anuraghazra/github-readme-stats)
+[![Cesar's github stats 🌟🌟](https://github-readme-stats.vercel.app/api?username=kreytos23&show_icons=true&theme=github_dark)
+)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Let's Connect :coffee:
 <p align="center">
