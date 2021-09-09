@@ -29,10 +29,12 @@ I have experience in Backend with languajes like Java, Go, JavaScript and Python
 
 
 <p align="center">
-[![Cesar's github stats 🌟🌟](https://github-readme-stats.vercel.app/api?username=kreytos23&show_icons=true&theme=github_dark)
-](https://github.com/anuraghazra/github-readme-stats)
+[![Cesar's github stats 🌟🌟](https://github-readme-stats.vercel.app/api?username=kreytos23&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+</p>
 
-### Let's Connect :coffee:</p>
+<p align="center">
+### Let's Connect :coffee:
+</p>
 
 <p align="center">
 	<a href="https://github.com/kreytos23"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
