@@ -31,8 +31,10 @@ I have experience in Backend with languajes like Java, Go, JavaScript and Python
 
 [![Cesar's github stats 🌟🌟](https://github-readme-stats.vercel.app/api?username=kreytos23&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<p align="center">
-### Let's Connect :coffee:
+<p align="center"><b>
+	
+ Let's Connect :coffee:
+	</b>
 </p>
 
 <p align="center">
