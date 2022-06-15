@@ -32,6 +32,8 @@ as a Java application developer for the last 7 months. <br/>
 
 [![Cesar's github stats 🌟🌟](https://github-readme-stats.vercel.app/api?username=kreytos23&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Cesar's most used languajes 🌟🌟](https://github-readme-stats.vercel.app/api/top-langs/?username=kreytos23&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <p align="center">
  Let's Connect :coffee:
 </p>
