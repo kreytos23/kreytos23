@@ -6,11 +6,12 @@ Also i´m working in IBM as a Java Microservices Intern, in the area of Global B
 I love coding in any languaje :snake:. <br/>
 I study Telematics Engineering in the Instituto Politénico Nacional. ❤️<br/>
 I have experience in Backend with languajes like Java, Go, JavaScript and Python. :zap::zap: <br/>
+I have been working as an intern at # IBM 
+as a Java application developer for the last 7 months. <br/>
 
-
-- ⚡ Fun fact: I began to code since 2017
-- 🖥️ looking to collaborate on projects that are using technologies in the backend.
-- 🌱 currently learning JavaScript and Node.js in order to be a great Fullstack Developer.
+- ⚡ Fact: I began to code since 2017
+- 🖥️ looking to collaborate on projects that are using technologies in backend.
+- 🌱 I am currently focused on improving in backend development and learning new technologies in like Go, Rust and Node.js.
 - 🎮 I'm learnign DevOps with AWS and Azure
 - :purple_heart: I Love videogames.
 - :star2: I love learn about any new technology.
