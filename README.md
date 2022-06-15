@@ -30,9 +30,9 @@ as a Java application developer for the last 7 months. <br/>
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-[![Cesar's github stats 🌟🌟](https://github-readme-stats.vercel.app/api?username=kreytos23&show_icons=true&theme=onedark)]
+![Cesar's github stats 🌟🌟](https://github-readme-stats.vercel.app/api?username=kreytos23&show_icons=true&theme=github_dark)
 
-[![Cesar's most used languajes 🌟🌟](https://github-readme-stats.vercel.app/api/top-langs/?username=kreytos23&layout=compact&theme=onedark)]
+![Cesar's most used languajes 🌟🌟](https://github-readme-stats.vercel.app/api/top-langs/?username=kreytos23&layout=compact&theme=github_dark)
 
 <p align="center">
  Let's Connect :coffee:
