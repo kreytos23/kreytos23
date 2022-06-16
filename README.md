@@ -35,9 +35,9 @@ as a Java application developer for the last 7 months. <br/>
 ![Cesar's most used languajes 🌟🌟](https://github-readme-stats.vercel.app/api/top-langs/?username=kreytos23&layout=compact&theme=github_dark)
 
 
-<p align="center">
+<h2 align="center">
  Let's Connect :coffee:
-</p>
+</h2>
 
 <p align="center">
 	<a href="https://github.com/kreytos23"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
