@@ -6,7 +6,7 @@ I´m working in IBM as a Java Microservices Intern, in the area of Global Busine
 I love coding in any languaje :snake: ☕. <br/>
 I study Telematics Engineering in the Instituto Politénico Nacional. ❤️<br/>
 I have experience in Backend with languajes like  <b>Java, Go, JavaScript and Python. :zap::zap:</b>  <br/>
-I have been working as an intern at <b> IBM </b> 
+I was working as an intern at <b> IBM, now i'm application developer fulltime at IBM working in a project with CitiBank</b> 
 as a Java application developer for the last 7 months. <br/>
 
 - ⚡ Fact: I began to code since 2017
