@@ -41,7 +41,7 @@ as a Java application developer for the last 7 months. <br/>
 
 <p align="center">
 	<a href="https://github.com/kreytos23"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/cesarmartin2001/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="www.linkedin.com/in/cesar-sadrak-martin-moreno-898284179"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://www.facebook.com/cesar.sadrak10/"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
 	<a href="https://www.instagram.com/kreytos.dead10/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a> <br/>
 </p>
