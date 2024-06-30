@@ -33,7 +33,7 @@ I am focused on learn AWS Cloud 🧡. <br/>
 
 ![Cesar's github stats 🌟🌟](https://github-readme-stats.vercel.app/api?username=kreytos23&show_icons=true&theme=midnight-purple&rank_icon=github)
 
-![Cesar's most used languajes 🌟🌟](https://github-readme-stats.vercel.app/api/top-langs/?username=kreytos23&layout=compact&theme=github_dark)
+![Cesar's most used languajes 🌟🌟](https://github-readme-stats.vercel.app/api/top-langs/?username=kreytos23&layout=donut&theme=midnight-purple)
 
 
 <h2 align="center">
