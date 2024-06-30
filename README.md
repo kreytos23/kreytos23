@@ -8,6 +8,7 @@ I study Telematics Engineering in the Instituto Politénico Nacional. ❤️<br/
 I have experience in Backend with languajes like  <b>Java, Go, JavaScript and Python. :zap::zap:</b>  <br/>
 I was working as an intern at <b> IBM, now i'm application developer fulltime at IBM working in a project with CitiBanamex</b> 
 as a Java application developer since 2021. <br/>
+I am focused on learn AWS Cloud 🧡. <br/>
 
 - ⚡ Fact: I began to code since 2017
 - 🖥️ looking to collaborate on projects that are using technologies in backend.
