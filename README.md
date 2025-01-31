@@ -1,10 +1,10 @@
 ![alt text](./assets/cabecera.png)
 
-Hi !!, I'm Cesar Martin, I'm a Mexican 🌮 engineering student by the day and also developer by the night. 
+Hi !!, I'm Cesar Martin, I'm a Mexican 🌮 Telematics Engineer by the day and also developer by the night. 
 I´m working in IBM as a Java Microservices/ Application Developer, in the area of Consulting working in a project with CitiBanamex ☕.
 
 I love coding in any languaje :snake: ☕. <br/>
-I study Telematics Engineering in the Instituto Politénico Nacional. ❤️<br/>
+I am a Telematics Engineer - IPN. ❤️<br/>
 I have experience in Backend with languajes like  <b>Java, Go, JavaScript and Python. :zap::zap:</b>  <br/>
 I was working as an intern at <b> IBM, now i'm application developer fulltime at IBM working in a project with CitiBanamex</b> 
 as a Java application developer since 2021. <br/>
